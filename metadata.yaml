@@ -1,4 +1,8 @@
 _repo: Twice-Killed-A-Farce-in-One-Act_49481
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49481-h/images/cover.jpg
 creator:
   author:
     agent_name: Oxenford, John
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4723
     wikipedia: http://en.wikipedia.org/wiki/John_Oxenford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49481#Twice-Killed-A-Farce-in-One-Act
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
